@@ -7,6 +7,7 @@ img {
 
 h1 {
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 ol, 
@@ -15,4 +16,9 @@ li {
     margin-right: auto;
     width: 50%;
     text-align: center;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
 }
