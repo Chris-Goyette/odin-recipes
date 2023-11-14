@@ -10,15 +10,6 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
-ol, 
-li {
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: center;
-}
-
-li {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+.recipe-1, .recipe-2, .recipe-3 {
+    border: 1px solid red;
 }
